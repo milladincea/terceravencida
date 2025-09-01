@@ -1,21 +1,21 @@
 const trabajitos = [
     {
-        photo: "https://github.com/milladincea/terceravencida/img/infografiapanasonic.webp",
+        photo: "https://milladincea.github.io/terceravencida/img/infografiapanasonic.webp",
         title: "Infografía Panasonic Orbitel",
         description: "Trabajo de Configuración Visual II, con Prof.."
     },
     {
-        photo: "https://github.com/milladincea/terceravencida/img/infografiaapokemones.webp",
+        photo: "https://milladincea.github.io/terceravencida/img/infografiaapokemones.webp",
         title: "Infografía Pokemones",
         description: "Trabajo de Representación conceptual, con Prof.."
     },
     {
-        photo: "https://github.com/milladincea/terceravencida/img/collage.webp",
+        photo: "https://milladincea.github.io/terceravencida/img/collage.webp",
         title: "Collage",
         description: "Trabajo de Lenguaje y Significación, con Prof.."
     },
     {
-        photo: "https://github.com/milladincea/terceravencida/img/pictograma.webp",
+        photo: "https://milladincea.github.io/terceravencida/img/pictograma.webp",
         title: "Pictograma Breaking",
         description: "Trabajo de Configuración Visual I, con Prof.."
     }            
