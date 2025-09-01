@@ -12,7 +12,7 @@ const trabajitos = [
     {
         photo: "https://github.com/milladincea/terceravencida/img/infograf%C3%ADa_page-0001.webp",
         title: "Collage",
-        description: "Trabajo de , con Prof.."
+        description: "Trabajo de Lenguaje y Significación, con Prof.."
     },
     {
         photo: "https://github.com/milladincea/terceravencida/img/pictograma%20breaking%20version%202%20FINAL%20london%202012_page-0001.webp",
